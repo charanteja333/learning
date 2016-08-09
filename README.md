@@ -1,2 +1,2 @@
 # learning
-My learning repo with quic
+My learning repo

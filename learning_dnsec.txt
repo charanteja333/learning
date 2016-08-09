@@ -1,0 +1,43 @@
+1st day
+
+DNS caching is aggressive.
+
+It remembers for some time.
+
+Some fucking issue with my brew
+
+Who runs root server ? A-K root servers
+Who decides root server?
+
+Zone and domains?
+
+DNS works on UDP, latency
+
+13 root servers - Limited  to packet size limitation
+
+Clearing dns cache?
+TTL is decided on dns  - Who hosts it decide, recursive server
+No entries in /etc/resolv.conf
+
+How much times does it caches? Does it over write?
+
+Different types of DNS records - A , AAAA, MX
+
+SRV record can be used for load balancing
+SOA for authorative servers
+
+EDNS0
+
+DNS recon
+
+in-addr.arpa
+
+
+
+
+2nd Day
+
+
+Implement SHA256 replacing md5sum .
+
+SHA1 , SHA256, SHA512
